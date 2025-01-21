@@ -220,7 +220,7 @@ body, html {
   }
   
   .social-icons a:hover {
-    transform: scale(1.100); /* Ingrandisce leggermente l'elemento */
+    transform: scale(1.100);
   }
 
   
